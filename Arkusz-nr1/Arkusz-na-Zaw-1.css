@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+main {
+    height: 70vh;
+}
+
+.baner {
+    background-color: rgb(3, 121, 199);
+    height: 200px;
+}
+
+.nawigacja {
+    background-color: rgb(0, 217, 255);
+    padding: 15px;
+}
+
+.nawigacja a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 150%;
+}
+
+.lewy {
+    height: 350px;
+    width: 33%;
+    float: left;
+}
+
+.srodek {
+    height: 350px;
+    width: 33%;
+    float: left;
+}
+
+ul {
+    text-align: left;
+}
+
+.prawy {
+    height: 350px;
+    width: 33%;
+    float: left;
+}
+
+footer {
+    background-color: rgb(0, 217, 255);
+    color: WHITE;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}

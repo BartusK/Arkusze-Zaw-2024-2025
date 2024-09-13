@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+div#container {
+    width: 95%;
+    margin: auto;
+}
+div#baner {
+    background-color: rgb(3, 121, 199);
+    height: 200px;
+}
+
+nav {
+    background-color: rgb(0, 217, 255);
+    padding: 15px;
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+    font-size: 150%;
+}
+
+form {
+    text-align: center;
+}
